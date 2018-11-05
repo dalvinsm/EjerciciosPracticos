@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Var_OperacionesAritmeticas", "Var_OperacionesAritmeticas\Var_OperacionesAritmeticas.csproj", "{685FC530-59A6-4D60-B837-8D1CD7E39B5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{685FC530-59A6-4D60-B837-8D1CD7E39B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685FC530-59A6-4D60-B837-8D1CD7E39B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685FC530-59A6-4D60-B837-8D1CD7E39B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685FC530-59A6-4D60-B837-8D1CD7E39B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E98B1E2-AFBD-49DB-96A8-71A06A28F276}
+	EndGlobalSection
+EndGlobal
